@@ -1,6 +1,6 @@
 {
   "name": "react-kodbox",
-  "version": "2.3.9",
+  "version": "2.4.0",
   "description": "A React provider designed to facilitate communication and state management across components within an React application. It employs a variety of programming concepts and techniques integral to reactive programming.",
   "main": "dist/KodBoxProvider.js",
   "types": "dist/KodBoxProvider.d.ts",
@@ -12,8 +12,16 @@
     "url": "git+https://github.com/kod3000/react-kodbox.git"
   },
   "keywords": [
-
-    "react"
+    "react",
+    "reactjs",
+    "provider",
+    "state",
+    "management",
+    "communication",
+    "all-in-one",
+    "reactive",
+    "lambda",
+    "lambda-extension"
   ],
   "author": "Nestor Rivera (aka dany)",
   "license": "MIT",
